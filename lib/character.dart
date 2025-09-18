@@ -1,3 +1,4 @@
+
 class Character {
   String name;
   int level;

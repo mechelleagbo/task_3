@@ -27,4 +27,8 @@ void main() {
   print(archer.describe());
   archer.shootArrow();
   archer.takeDamage(25);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> fa03bf1 (feature(derived-dyleen): add Derived with unique property and method)
