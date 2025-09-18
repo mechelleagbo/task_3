@@ -14,5 +14,4 @@ class Warrior extends Character {
   String describe() {
     return "Warrior ${super.describe()} | Strength: $strength";
   }
-
 }
