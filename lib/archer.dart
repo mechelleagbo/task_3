@@ -19,4 +19,8 @@ class Archer extends Character {
   String describe() {
     return "Archer ${super.describe()} | Arrows: $arrows";
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> fa03bf1 (feature(derived-dyleen): add Derived with unique property and method)

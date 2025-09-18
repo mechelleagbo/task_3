@@ -19,4 +19,8 @@ class Mage extends Character {
   String describe() {
     return "Mage ${super.describe()} | Mana: $mana";
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> fa03bf1 (feature(derived-dyleen): add Derived with unique property and method)
